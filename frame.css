@@ -1,0 +1,25 @@
+body{
+    width: 250px;
+    height: 200px;
+    padding: 2ch;
+    font-family: 'Source Hans Sans'!important;
+    background-color: rgb(255, 255, 255);
+}
+@font-face {
+    font-family: Source Hans Sans;
+    src: url(./font/SourceHanSansCN-Normal.otf);
+}
+  
+@font-face {
+    font-family: Source Hans Serif;
+    src: url(./font/SourceHanSerifSC-Regular.otf);
+}
+
+button {
+   margin-top: 10px;
+   margin-right: 8px;
+
+}
+img{
+    width: 20px; height: 20px;
+}
